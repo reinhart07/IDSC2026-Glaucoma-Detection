@@ -4,7 +4,8 @@
 > Theme: *Mathematics for Hope in Healthcare*  
 > Hosted by UPM (Malaysia) · UNAIR, UNMUL, UB (Indonesia)
   
-[![Streamlit App]( https://idsc2026-glaucoma-detection-rjdutnaqxlasdumwawhmci.streamlit.app/ )]
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
+(https://idsc2026-glaucoma-detection-rjdutnaqxlasdumwawhmci.streamlit.app/)
 
 ---
 

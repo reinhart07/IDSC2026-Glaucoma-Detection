@@ -9,7 +9,7 @@
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Glaucomatous Optic Neuropathy (GON) is the **leading cause of irreversible blindness** worldwide, affecting 64.3 million people globally. Approximately **50% of cases remain undiagnosed** until advanced stages. Traditional diagnosis requires specialist ophthalmologists — a barrier in many regions.
 
@@ -25,8 +25,8 @@ Glaucomatous Optic Neuropathy (GON) is the **leading cause of irreversible blind
 | EfficientNet-B4 | 0.9967+ | 98.00% | ❌ |
 | **QA-EfficientNet-B4 (Ours)** | **0.9991 (val)** | - | ✅ |
 
-- 🎯 **False Negatives: only 2 / 132 test images**
-- 🎯 **False Positives: only 2 / 132 test images**
+-  **False Negatives: only 2 / 132 test images**
+-  **False Positives: only 2 / 132 test images**
 
 ---
 
@@ -40,7 +40,7 @@ Glaucomatous Optic Neuropathy (GON) is the **leading cause of irreversible blind
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 IDSC2026-Glaucoma-Detection/
@@ -57,7 +57,7 @@ IDSC2026-Glaucoma-Detection/
 
 ---
 
-## 🚀 Run Locally
+## Run Locally
 
 ```bash
 git clone https://github.com/reinhart07/IDSC2026-Glaucoma-Detection
@@ -68,25 +68,25 @@ streamlit run app.py
 
 ---
 
-## 📓 Notebook
+## Notebook
 
 The full pipeline is available in [`IDSC2026_HYGD_Glaucoma_Detection.ipynb`](./IDSC2026_HYGD_Glaucoma_Detection.ipynb):
 
-1. ⚙️ Environment Setup
-2. 📥 Dataset Download & Loading
-3. 🔍 Exploratory Data Analysis
-4. 🔧 Preprocessing Pipeline (patient-level split)
-5. 📱 Baseline 1 — MobileNetV2
-6. 🚀 Baseline 2 — EfficientNet-B4
-7. 💡 Innovation — Quality-Aware EfficientNet-B4
-8. 📊 Model Comparison & Ablation Study
-9. 🔥 GradCAM Interpretability
-10. 🔎 Error Analysis & Threshold Optimization
-11. 📝 Summary & Clinical Relevance
+1. Environment Setup
+2. Dataset Download & Loading
+3. Exploratory Data Analysis
+4. Preprocessing Pipeline (patient-level split)
+5. Baseline 1 — MobileNetV2
+6. Baseline 2 — EfficientNet-B4
+7. Innovation — Quality-Aware EfficientNet-B4
+8. Model Comparison & Ablation Study
+9. GradCAM Interpretability
+10. Error Analysis & Threshold Optimization
+11. Summary & Clinical Relevance
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 **Hillel Yaffe Glaucoma Dataset (HYGD) v1.0.0**
 
@@ -104,13 +104,13 @@ PhysioNet. https://doi.org/10.13026/z0ak-km33
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This tool is **for research purposes only**. It is not a substitute for professional ophthalmological examination. Always consult a qualified healthcare professional for medical diagnosis.
 
 ---
 
-## 🏆 Competition
+## Competition
 
 **IDSC 2026** — International Data Science Challenge  
 - Stage 1 Deadline: 25 March 2026

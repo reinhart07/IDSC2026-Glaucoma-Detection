@@ -3,8 +3,8 @@
 > **International Data Science Challenge 2026**  
 > Theme: *Mathematics for Hope in Healthcare*  
 > Hosted by UPM (Malaysia) · UNAIR, UNMUL, UB (Indonesia)
-
-[![Streamlit App](https://idsc2026-glaucoma-detection-rjdutnaqxlasdumwawhmci.streamlit.app/)]
+  
+[![Streamlit App]( https://idsc2026-glaucoma-detection-rjdutnaqxlasdumwawhmci.streamlit.app/ )]
 
 ---
 

@@ -17,7 +17,7 @@ Glaucomatous Optic Neuropathy (GON) is the **leading cause of irreversible blind
 
 ---
 
-## 📊 Results
+##  Results
 
 | Model | Test AUC | Sensitivity | Quality-Aware |
 |---|---|---|---|
